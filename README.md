@@ -1,4 +1,4 @@
-# Brainfuck String-to-Code Converter
+# Brainfuck String to Code Converter
 
 This is a Python script that converts user-entered strings into Brainfuck code. The generated Brainfuck code, when executed, will print the original string and BrainFuck code
 
